@@ -1,0 +1,5 @@
+s,a,h,w,w,f,es
+sunny,warm,normal,strong,warm,same,yes
+sunny,warm,high,strong,warm,same,yes
+sunny,cool,high,strong,warm,change,no
+sunny,warm,high,strong,cool,change,yes
